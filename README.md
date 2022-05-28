@@ -27,6 +27,10 @@
         <td><img src = "https://img.itch.zone/aW1hZ2UvMTQ0Mzc1MC84ODQ0MTM3LnBuZw==/347x500/S1MS4W.png"></td>
       </table>
   </div>
+    <div>
+    <h2> Game Play Video </h2>
+    https://youtu.be/aZI0wbvlpqw
+  </div>
   <div>
     <h2> What I learned </h2>
       After I used external packages 'Universal RP', <br><br>
