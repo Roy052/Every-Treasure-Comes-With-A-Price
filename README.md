@@ -1,4 +1,4 @@
-# Every-Treasure-Comes-With-A-Price
+# Every Treasure Comes With A Price
 <div>
     <h2> 게임 정보 </h2>
     <img src = "https://img.itch.zone/aW1nLzg0MjcwNDgucG5n/347x500/awJeBG.png"><br>
